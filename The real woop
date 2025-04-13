@@ -1,4 +1,18 @@
-PK        Ç†ŠZ                godnpe-ai-frontend/src/PK        Ç†ŠZ                godnpe-ai-frontend/public/PK        Ç†ŠZÚ4=¼„   „       godnpe-ai-frontend/package.json{
+---
+// index.astro
+---
+<html>
+  <head>
+    <title>ZionKore19 AI</title>
+  </head>
+  <body>
+    <h1>Welcome to ZionKore19 AI System</h1>
+    <p>Frontend deployed with Astro + Vercel</p>
+    <a href="/api/zionkore">Invoke AI</a>
+  </body>
+</html>
+
+PK      Ç†ŠZ                godnpe-ai-frontend/src/PK        Ç†ŠZ                godnpe-ai-frontend/public/PK        Ç†ŠZÚ4=¼„   „       godnpe-ai-frontend/package.json{
   "name": "godnpe-ai-frontend",
   "version": "1.0.0",
   "private": true,
